@@ -1,0 +1,7 @@
+python 3.10.4
+isntall mysql 
+run cmd in C:\utkarsh\personal\gui_openai_project and 
+then pip install openai mysql-connector-python    
+pip install tiktoken
+pip install python-dotenv
+pip freeze > requirements.txt
